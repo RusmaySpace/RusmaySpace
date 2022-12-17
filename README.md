@@ -5,18 +5,18 @@
   <img src="https://media.giphy.com/media/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="200"/>
 </div>
   <div id="badges" align="center">
-  <a href="https://www.curseforge.com/members/guild_craftsmens/projects" target="_blank">
+  <a href="https://www.curseforge.com/members/guild_craftsmens/projects">
     <img src="https://img.shields.io/badge/GuildCraftsMens%20Projects-grey?logo=CurseForge&logoColor=white" alt="CurseForge Badge"/>
   </a>
   </div>
 <div id="badges" align="center">
-  <a href="https://vk.com/rusmayxd" target="_blank">
+  <a href="https://vk.com/rusmayxd">
     <img src="https://img.shields.io/badge/RusmayXD-blue?logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCeCS71_Ys0qemq3tYHhYxOA" target="_blank">
-    <img src="https://img.shields.io/badge/GuildCraftsMens-red?logo=YouTube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.youtube.com/channel/UCeCS71_Ys0qemq3tYHhYxOA">
+    <img src="https://img.shields.io/badge/GuildCraftsMens-red?logo=YouTube&logoColor=white" alt="Youtube Badge" target="_blank"/>
   </a>
-  <a href="https://t.me/rusmayxd" target="_blank">
+  <a href="https://t.me/rusmayxd">
     <img src="https://img.shields.io/badge/Rusmay-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 <h1>
