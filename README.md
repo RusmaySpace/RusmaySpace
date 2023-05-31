@@ -19,10 +19,6 @@
   <a href="https://t.me/rusmayxd">
     <img src="https://img.shields.io/badge/Rusmay-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-<div id="badges" align="center">
-  <a href="http://guildcraftsmens.tilda.ws/">
-    <img src="https://img.shields.io/badge/GCM-%7C%20OUR%20WEBSITE-grey" alt="GСM Badge"/>
-  </a>
   </div>
 <h1>
   Welcome
