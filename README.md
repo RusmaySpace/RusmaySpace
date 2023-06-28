@@ -6,7 +6,7 @@
 </div>
   <div id="badges" align="center">
   <a href="https://www.curseforge.com/members/guild_craftsmens/projects">
-    <img src="https://img.shields.io/badge/GuildCraftsMens%20Projects-grey?logo=CurseForge&logoColor=white" alt="CurseForge Badge"/>
+    <img src="https://img.shields.io/badge/GuildCraftsMen%20Projects-grey?logo=CurseForge&logoColor=white" alt="CurseForge Badge"/>
   </a>
   </div>
 <div id="badges" align="center">
@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/RusmayXD-blue?logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCeCS71_Ys0qemq3tYHhYxOA">
-    <img src="https://img.shields.io/badge/GuildCraftsMens-red?logo=YouTube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/GuildCraftsMen-red?logo=YouTube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/rusmayxd">
     <img src="https://img.shields.io/badge/Rusmay-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
