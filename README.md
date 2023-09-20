@@ -30,9 +30,9 @@
 </div>
 :man_technologist: About Me :
 
-<img src="https://media.giphy.com/media/Zc0zSSoAukbte/giphy.gif" width="30">I am an undecided developer from the Russian Federation.
+<img src="https://media.giphy.com/media/Zc0zSSoAukbte/giphy.gif" width="30"> I am an undecided developer from the Russian Federation.
 
-:diamond_shape_with_a_dot_inside:     I am the director and developer of the team of modcreators for the game Minecraft... And not only.
+:diamond_shape_with_a_dot_inside:     I am the director and developer of the team of modcreators for the game Minecraft... and not only.
 
 :unlock: Our projects are located on sites such as: CurseForge, MineCraft Inside, Mody-minecraft and correspondingly, GitHub.
 
