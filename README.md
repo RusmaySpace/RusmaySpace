@@ -11,7 +11,7 @@
   </div>
 <div id="badges" align="center">
   <a href="https://vk.com/rusmayxd">
-    <img src="https://img.shields.io/badge/RusmayXD-blue?logo=VK&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/Rusmay-blue?logo=VK&logoColor=white" alt="VK Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCeCS71_Ys0qemq3tYHhYxOA">
     <img src="https://img.shields.io/badge/GuildCraftsMen-red?logo=YouTube&logoColor=white" alt="Youtube Badge"/>
@@ -34,7 +34,7 @@
 
 :diamond_shape_with_a_dot_inside:     I am the director and developer of the team of modcreators for the game Minecraft... and not only.
 
-:unlock: Our projects are located on sites such as: CurseForge, MineCraft Inside, Mody-minecraft and correspondingly, GitHub.
+:unlock: Our projects are located on sites such as: CurseForge, Minecraft Inside, Mody-minecraft and correspondingly, GitHub.
 
 ---
 
