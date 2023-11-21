@@ -1,23 +1,23 @@
 <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=RusmayXD&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=RusmayXD&style=flat-square&color=blue&style=for-the-badge" alt=""/>
  </div>
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e478ugfgi3tkjmwfgfya7gqxn25of9pgartxqo8w0og&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
   <div id="badges" align="center">
   <a href="https://www.curseforge.com/members/guild_craftsmens/projects">
-    <img src="https://img.shields.io/badge/GuildCraftsMen%20Projects-grey?logo=CurseForge&logoColor=white" alt="CurseForge Badge"/>
+    <img src="https://img.shields.io/badge/GCM%20Projects-grey?logo=CurseForge&logoColor=white&style=for-the-badge" alt="CurseForge Badge"/>
   </a>
   </div>
 <div id="badges" align="center">
   <a href="https://vk.com/rusmayxd">
-    <img src="https://img.shields.io/badge/Rusmay-blue?logo=VK&logoColor=white" alt="VK Badge"/>
+    <img src="https://img.shields.io/badge/Rusmay-blue?logo=VK&logoColor=white&style=for-the-badge" alt="VK Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCeCS71_Ys0qemq3tYHhYxOA">
-    <img src="https://img.shields.io/badge/GuildCraftsMen-red?logo=YouTube&logoColor=white" alt="Youtube Badge"/>
+    <img src="https://img.shields.io/badge/GCM%20Studio-red?logo=YouTube&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
   <a href="https://t.me/rusmayxd">
-    <img src="https://img.shields.io/badge/Rusmay-blue?logo=Telegram&logoColor=white" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Rusmay-blue?logo=Telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
   </div>
 <h1>
