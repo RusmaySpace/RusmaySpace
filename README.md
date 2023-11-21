@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=RusmayXD&style=flat-square&color=blue" alt=""/>
  </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZkVIzvAEUA4ISI6WpO/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e478ugfgi3tkjmwfgfya7gqxn25of9pgartxqo8w0og&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
   <div id="badges" align="center">
   <a href="https://www.curseforge.com/members/guild_craftsmens/projects">
